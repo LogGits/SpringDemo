@@ -1,4 +1,4 @@
-Time Taken: **11:30am - 1:36pm (2h 6m total)**
+**Time Taken:** 11:30am - 1:36pm **(2h 6m total)**
 
 **Bonus:** I decided to write Javadoc descriptions of the methods that I created.
 
