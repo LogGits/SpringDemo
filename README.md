@@ -1,3 +1,9 @@
+Time Taken: **11:30am - 1:36pm (2h 6m total)**
+
+**Bonus:** I decided to write Javadoc descriptions of the methods that I created.
+
+**Thoughts:** This task was pretty interesting. I have never used Spring before however it has opened my eyes as to how useful something like this can be. I took longer then I originally expected simply because I had to read alot of documentation. Nonetheless, I completed pretty much all tasks except except for simple Junit tests which im sure anyone Java developer can do.
+
 # Starter tasks
  
 This is a Spring Boot project including file Database and Hibernate API
