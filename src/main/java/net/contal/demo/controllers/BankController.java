@@ -101,7 +101,7 @@ public class BankController {
                 if (!transactions.isEmpty()) {
                     int min = Math.max(0, transactions.size() - 10);
                     for (int i = transactions.size(); i > min; i--) {
-                        transactionList.add(transactions.get(i));
+                        transactionList.add(transactions.get(i - 1));
                     }
                 }
             }
